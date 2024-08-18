@@ -1,1 +1,1 @@
-# Scalping-Trading-Bot---Forex
+# Scalping-Trading-Bot-Forex
